@@ -6,4 +6,6 @@ It also includes three screenshots of the product of the VBA code to show the an
 
 I got help from these sources:
 Tutoring from Kelli Kennedy
+O365devx. (2022, July 12). Excel Visual Basic for Applications (VBA) reference. Microsoft Learn. https://learn.microsoft.com/en-us/office/vba/api/overview/excel
+
 
