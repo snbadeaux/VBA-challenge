@@ -10,4 +10,6 @@ Tutoring from Kelli Kennedy
 
 O365devx. (2022, July 12). Excel Visual Basic for Applications (VBA) reference. Microsoft Learn. https://learn.microsoft.com/en-us/office/vba/api/overview/excel
 
+Excel VBA Macros Playlist. (n.d.). https://www.youtube.com/@TutorialsPoint_
+
 
